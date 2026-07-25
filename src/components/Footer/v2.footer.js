@@ -51,7 +51,7 @@ export default function Footer() {
               </>
             )}
           </div>
-          <div className='copyright'>Rajat Payghan, 2025</div>
+          <div className='copyright'>Rajat Payghan, 2026</div>
         </div>
       </div>
 
